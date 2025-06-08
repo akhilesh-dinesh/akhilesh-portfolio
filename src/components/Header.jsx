@@ -2,7 +2,6 @@ import { useContext } from 'react';
 import { ThemeContext } from '../hooks/useDarkMode';
 import { motion } from 'framer-motion';
 import { FiSun, FiMoon } from 'react-icons/fi';
-import logo from '../assets/logo.svg';
 
 export default function Header() {
   const { isDarkMode, toggleDarkMode } = useContext(ThemeContext);
@@ -17,7 +16,7 @@ export default function Header() {
           className="flex items-center"
           aria-label="Homepage"
         >
-          <img src={logo} alt="Logo" className="w-10 h-10" />
+          <img src={"/logo.svg"} alt="Logo" className="w-10 h-10" />
           {/* Optional: You can remove the text "My Portfolio" or keep it */}
           {/* <span className="ml-2 text-xl font-bold text-gray-900 dark:text-white">My Portfolio</span> */}
         </motion.a>
