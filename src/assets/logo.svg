@@ -1,0 +1,30 @@
+<svg width="175" height="175" viewBox="0 0 350 350" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Transparent circular background -->
+  <circle cx="175" cy="175" r="175" fill="transparent" />
+  
+  <!-- Initials: moderate blue, bold and big -->
+  <text
+    x="50%" y="40%"
+    dominant-baseline="middle"
+    text-anchor="middle"
+    fill="#2563EB"
+    font-size="180"
+    font-family="Segoe UI, sans-serif"
+    font-weight="700"
+    letter-spacing="10"
+  >
+    A D
+  </text>
+
+  <!-- Frontend icon: warm gold -->
+  <text
+    x="50%" y="80%"
+    dominant-baseline="middle"
+    text-anchor="middle"
+    fill="#D97706"
+    font-size="90"
+    font-family="Courier New, monospace"
+  >
+    &lt;/&gt;
+  </text>
+</svg>
