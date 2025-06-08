@@ -69,12 +69,12 @@ export default function Contact() {
           transition={{ duration: 0.5 }}
         >
 
-          <p className="text-gray-600 dark:text-gray-300 mb-6">
+          <div className="text-gray-600 dark:text-gray-300 mb-6 text-base">
             🚀 Got a project in mind, want to geek out over code, or just say
             hi? Whether it’s through GitHub, LinkedIn, or this handy message
             form — I’m all ears and excited to connect. Let’s build something
             awesome together! ✨{" "}
-          </p>
+          </div>
 
           <div className="flex space-x-6">
             <a
