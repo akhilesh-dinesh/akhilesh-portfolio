@@ -87,7 +87,7 @@ export default function Contact() {
               <FaLinkedin />
             </a>
             <a
-              href="https://github.com/yourusername"
+              href="https://github.com/akhilesh-dinesh"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="GitHub"
