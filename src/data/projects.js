@@ -8,18 +8,11 @@ export const projects = [
       github: "https://github.com/akhilesh-dinesh/akhilesh-portfolio",
       live: window.location.href
     },
-    // {
-    //   id: 2,
-    //   title: "Task Management App",
-    //   description: "A productivity application for organizing tasks with drag-and-drop functionality. A productivity application for organizing tasks with drag-and-drop functionality.",
-    //   tags: ["React", "Firebase", "Tailwind CSS", "Redux", "TypeScript", "Framer Motion", "React Router"],
-    //   image: "https://placehold.co/600x400/orange/green"
-    // },
-    // {
-    //   id: 3,
-    //   title: "Weather Dashboard",
-    //   description: "Real-time weather information with 5-day forecast and location search.",
-    //   tags: ["React", "API Integration", "Chart.js"],
-    //   image: "https://placehold.co/600x400/orange/red"
-    // }
+    {
+      id: 2,
+      title: "Expense Tracker App (Work in progress...)",
+      description: "A full-stack personal finance tracker with REST API, user-friendly interface, and PostgreSQL database. Built with React, Node.js, and Prisma.",
+      tags: ["React", "Node.js", "PostgreSQL", "Prisma", "TypeScript", "Express", "Vite"],
+      image: "expense-tracker.png", // Replace later with a screenshot or preview
+    }
   ];
