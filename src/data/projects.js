@@ -1,8 +1,8 @@
 export const projects = [
     {
       id: 1,
-      title: "Front-End Portfolio",
-      description: "A personal portfolio showcasing my skills, projects, and experience.",
+      title: "Personal Website",
+      description: "A personal website showcasing my skills, projects, and experience.",
       tags: ["React.js", "JavaScript", "Tailwind CSS", "Framer Motion", "EmailJS", "Vite"],
       image: "portfolio.jpg",
       github: "https://github.com/akhilesh-dinesh/akhilesh-portfolio",
