@@ -22,12 +22,7 @@ export default function Hero() {
           transition={{ duration: 0.5, delay: 0.2 }}
           className="text-xl text-gray-600 dark:text-gray-300 mb-8"
         >
-          A passionate frontend developer. I build beautiful, responsive
-          websites that provide seamless user experiences. With a keen eye for
-          design and a love for clean code, I strive to create web applications
-          that are not only visually appealing but also fast and accessible.
-          Whether it’s crafting intuitive user interfaces or optimizing
-          performance, I enjoy turning ideas into engaging digital realities.
+          A frontend developer with a designer’s eye, an engineer’s discipline, and a product thinker’s mindset. I build fast, pixel-perfect web apps that scale, solving real user problems along the way. From design hand-off to production, I bridge creativity and code, crafting experiences that users love, products that succeed, and businesses that thrive.
         </motion.p>
 
         <motion.div
